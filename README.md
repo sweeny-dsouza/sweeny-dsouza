@@ -1,4 +1,4 @@
-# Hi, I'm Sweeny Marina Dsouza 👋
+# Hi, I'm Sweeny Marina Dsouza 
 
 ### B.Tech Information Technology Student
 
