@@ -2,16 +2,15 @@
 
 ### B.Tech Information Technology Student
 
-Building thoughtful software • Exploring AI-powered applications • Learning through real-world projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=B76E79&center=false&vCenter=true&width=700&lines=Building+thoughtful+software.;Exploring+AI+and+Full-Stack+Development.;Learning+through+real-world+projects.)](https://git.io/typing-svg)
 
 ---
 ## About
 I'm a fourth-semester B.Tech Information Technology student who enjoys transforming ideas into practical software. I believe the best way to learn is by building projects that solve real-world problems and continuously improving through hands-on experience.
 
-My interests lie in full-stack development, AI-powered applications, and creating clean, user-focused digital experiences. I'm always looking for opportunities to strengthen my technical foundation while building software that is simple, functional, and meaningful.
-
+My interests lie in full-stack development, AI-powered applications, and creating clean, user-focused digital experiences. I enjoy learning by building, experimenting with new technologies, and improving my projects with every iteration. My goal is to grow into a software engineer who creates products that are useful, intuitive, and built with purpose.
 ---
-## Current focus
+## Current Focus
 - Building full-stack web applications
 - Exploring AI-powered software
 - Strengthening backend development
