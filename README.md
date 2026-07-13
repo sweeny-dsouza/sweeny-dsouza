@@ -64,7 +64,8 @@ My goal is to grow into a software engineer who creates products that are useful
   <img src="https://streak-stats.demolab.com?user=sweeny-dsouza&theme=github-dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
 </p>
 ---
-##  Let's Connect
+
+## Let's Connect
 
 <div align="center">
 
