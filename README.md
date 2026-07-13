@@ -8,7 +8,11 @@
 ## About
 I'm a fourth-semester B.Tech Information Technology student who enjoys transforming ideas into practical software. I believe the best way to learn is by building projects that solve real-world problems and continuously improving through hands-on experience.
 
-My interests lie in full-stack development, AI-powered applications, and creating clean, user-focused digital experiences. I enjoy learning by building, experimenting with new technologies, and improving my projects with every iteration. My goal is to grow into a software engineer who creates products that are useful, intuitive, and built with purpose.
+My interests lie in full-stack development, AI-powered applications, and creating clean, user-focused digital experiences.
+
+I enjoy learning by building, experimenting with new technologies, and improving my projects with every iteration.
+
+My goal is to grow into a software engineer who creates products that are useful, intuitive, and built with purpose.
 ---
 ## Current Focus
 - Building full-stack web applications
@@ -54,6 +58,11 @@ My interests lie in full-stack development, AI-powered applications, and creatin
 - Cybersecurity Fundamentals
 - Data Structures & Algorithms
 ---
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sweeny-dsouza&theme=github-dark&hide_border=true&border_radius=8" alt="GitHub Streak" />
+</p>
 ##  Let's Connect
 
 <div align="center">
@@ -65,6 +74,7 @@ My interests lie in full-stack development, AI-powered applications, and creatin
 </div>
 
 ---
+Building products with purpose.
 
 
 
