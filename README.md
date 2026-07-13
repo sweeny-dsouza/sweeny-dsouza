@@ -2,7 +2,7 @@
 
 ### B.Tech Information Technology Student
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1000&color=B76E79&center=false&vCenter=true&width=700&lines=Building+thoughtful+software.;Exploring+AI+and+Full-Stack+Development.;Learning+through+real-world+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3500&pause=1000&color=FFFFFF&width=700&lines=Building+thoughtful+software.;Exploring+AI+and+Full-Stack+Development.;Growing+through+real-world+projects.)](https://git.io/typing-svg)
 
 ---
 ## About
